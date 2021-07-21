@@ -1,0 +1,81 @@
+Zespół to grupa ludzi zebranych razem w celu wykonania większego zadania w organizacji. Czasami będzie to cała organizacja.
+
+Zespoły składają się z kanałów, które są konwersacjami z członkami zespołu. Każdy kanał jest związany z konkretnym tematem, działem lub projektem.
+
+
+rtuytyutyu
+kjhk
+
+Kanały są miejscem, w którym wykonuje się faktyczną pracę — rozmowy tekstowe, dźwiękowe i wideo otwarte dla całego zespołu, w których udostępnia się pliki i dodaje aplikacje.
+
+Chociaż konwersacje na kanale są publiczne, czaty odbywają się tylko pomiędzy Tobą i konkretną osobą (lub grupą osób). Myśl o nich jak o natychmiastowych wiadomościach wysyłanych w aplikacji Skype dla firm lub innych aplikacji obsługujących wiadomości.
+
+	Rozmieszczenie produktów na stronie głównej
+	Kolorystyka strony
+	Literówki
+	Wielkość i jednolitość czcionek
+	Polityka prywatności
+	Regulamin sklepu
+	Pliki Cookies
+	[Generic Shop]Nieaktywny przycisk Menu przy zmianie szerokości okna
+	Zdublowane elementy 
+	Niespójnośc językowa
+	Widoczność tekstu
+	Widoczność pól
+	Błedne linki
+	Jednolite czcionki
+	Wyrównanie produktów
+
+
+Rozmieszczenie produktów na stronie głównej
+Kolorystyka strony
+Literówki
+Wielkość i jednolitość czcionek
+Polityka prywatności
+Regulamin sklepu
+Pliki Cookies
+[Generic Shop]Nieaktywny przycisk Menu przy zmianie szerokości okna
+Zdublowane elementy 
+Niespójnośc językowa
+Widoczność tekstu
+Widoczność pól
+Błedne linki
+Jednolite czcionki
+Wyrównanie produktów
+Sprawdzenie czy wszystkie zdjęcia produktów są widoczne i poprawne na stronie głównej
+Widoczność pola szukaj na stronie głównej
+Otwieranie linków w sekcji "BLOG"
+Sprawdzenie czy wszystkie zdjęcia produktów są widoczne i poprawne w kategoriach produktów
+Przynależnośc produktu do własciwej kategorri
+
+
+
+ID zestawu	Nazwa zestawu	Ilość PT	
+1	Rejestracja										8	
+2	Logowanie										10	
+3	Zmiana hasła									1	
+4	Odzyskiwanie hasła							2	
+5	Dane użytkownika							16	51
+6	Dodawanie produktów do koszyka	14	
+7	Zmiana ilości produktu w koszyka		6	
+8	Usuwanie produktów z koszyka			3	
+9	Stan koszyka zakupów						5	
+10	Kody rabatowe								6	
+11	Promocje										2	
+12	Formularze przy płatnościach		14	
+13	Kalkulacja ceny dostawy				1	
+14	Płatności										7	
+15	Szczegóły płatności						2	95
+16	Przejście do karty produktu			2	
+17	Wyszukiwarka	2	
+18	Kontakt ze sklepem	8	
+19	Przeglądanie i drukowanie potwierdzeń zakupów	2	
+20	Sortowanie	5	
+21	Podgląd (zoomowanie) zdjęć)	1	
+22	Paginacja	3	
+23	Blog	13	
+24	Podgląd komentarzy	1	
+25	Nawigacja "breadcrumbs"	1	
+26	Tagi	2	
+27	Newsletter	6	
+		143	
